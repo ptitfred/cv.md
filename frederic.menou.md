@@ -18,7 +18,9 @@ Most people get scared when you got to connect to a server over ssh (_remind me 
 I'm **not a pro sysadmin**, but I got **enough notions** to save my a$$ most of the times (Enter~. if you what I mean).
 
 Did I say you how much I love **clean code**? This is very important, especially if you have to rely on this code 24h a day.
-And with clean code you also need some kind of software factory. 2 years ago, I felt in love with **git**. You're on a git repository, so I won't explain it to you.
+And with clean code you also need some kind of software factory.
+
+2 years ago, I felt in love with **git**. You're on a git repository, so I won't explain it to you.
 
 But I love this so much I spent hours and hours helping other developers to make them master it. And believe me, I know how to explain a rebase to almost any developer.
 This is just a matter of Acyclic Directed Graphs manipulation.
